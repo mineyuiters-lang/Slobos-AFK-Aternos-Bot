@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lax_br.aternos.me",
+    "ip": "plax_br.aternos.me",
     "port": 41620,
     "version": "",
     "try-creative": false
