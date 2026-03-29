@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "plax_br.aternos.me",
-    "port": 41620,
+    "port": "41620",
     "version": "",
     "try-creative": false
   },
